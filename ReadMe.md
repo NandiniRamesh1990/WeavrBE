@@ -8,3 +8,6 @@
 - Implement whatever is required to write tests for the update user endpoint
 
 ###### The information required to perform those tasks can be found here -> https://gorest.co.in/. Feel free to update the project in any way you see fit.
+
+
+<!-- Only changes are in src/test/CreateUserTests.java, src/main/models and src/main/services tests>
